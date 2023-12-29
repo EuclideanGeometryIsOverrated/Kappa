@@ -6,6 +6,14 @@
 
 int main(int argc, char *argv[]){
 
+    /*
+    
+    3.14159
+    2.71828
+    1.61803
+    
+    */
+
     char toCalculate;
     int prec;
 
