@@ -1,6 +1,4 @@
 #include "pi.hpp"
-#include <iostream>
-#include <iomanip>
 #include <cmath>
 
 double fac(const double &_in) {
